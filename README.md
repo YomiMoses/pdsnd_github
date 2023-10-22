@@ -1,17 +1,25 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>#Bikeshare Data
+This project contains a **python** script showing bikeshare information in three states in the US; New York City, Chicago and Washington.
 
-### Date created
-Include the date you created this project and README file.
+## Date created
+5th October, 2023.
 
-### Project Title
-Replace the Project Title
+## App Installation
+For smooth running of this python script, you must have installed on your PC:
+*Anaconda (Numpy and pandas)
+*Python
+*A code editor ( Atom, visual studio, sublime text).
 
-### Description
-Describe what your project is about and what it does
+## Usage
+Run the script on a terminal enabled code editor and follow the prompt thereafter. After inputing data based on prompt, press the enter key. A typical prompt looks like this;
+'''
+Hello! lets explore some US bikeshare data!
+Please, pick a city to analyze: (ch) for Chicago, (ny) for New York City or (w) for Washington.
+'''
 
 ### Files used
-Include the files used
+*Chicago.csv
+*New_york_City.csv
+*Washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
