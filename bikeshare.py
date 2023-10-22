@@ -99,7 +99,7 @@ def time_stats(df):
     most_common_month = df['month'].mode()[0]
     print("Most common month is ", most_common_month)
 
-    # display the most common day of the week
+    # display the most frequent week day
     df['day_of_week'] = df['Start Time'].dt.day_name()
     most_common_day = df['day_of_week'].mode()[0]
     print('The most common day is ', most_common_day)
