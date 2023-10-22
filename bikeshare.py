@@ -30,7 +30,7 @@ def get_filters():
         else:
             print("Oops!! Invalid Input...")
 
-    # 2- ask the user to input month (jan, feb, ..., jun, all)
+    # 2- ask the user to enter a month (jan, feb, ..., jun, all)
     # check for input validation for month
     months = ["jan", "feb", "mar", "apr", "may", "jun", "all"]
     while True:
