@@ -21,7 +21,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!\n')
     # 1- check for input validation for city
-    # ask the user to input city (chicago (ch), new york city (ny), washington(w)
+    # ask the user to enter a city (chicago (ch), new york city (ny), washington(w)
     while True:
         city = input(
             "Please, pick a city to analyze: (ch) for Chicago, (ny) for New York City, or (w) for Washington: \n").lower()
