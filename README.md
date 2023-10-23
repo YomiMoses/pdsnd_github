@@ -19,7 +19,9 @@ Please, pick a city to analyze: (ch) for Chicago, (ny) for New York City or (w) 
 
 ### Files used
 *Chicago.csv
+
 *New_york_City.csv
+
 *Washington.csv
 
 
